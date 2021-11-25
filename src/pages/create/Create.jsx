@@ -72,7 +72,7 @@ export default function Create() {
                         required
                     />
                 </label>
-                <button className="btn">Submit</button>
+                <button className="">Submit</button>
             </form>
         </div>
     )
